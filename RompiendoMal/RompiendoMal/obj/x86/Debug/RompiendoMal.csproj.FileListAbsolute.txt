@@ -1,0 +1,7 @@
+C:\Users\vichu\Documents\Visual Studio 2010\Projects\RompiendoMal\RompiendoMal\RompiendoMal\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\vichu\Documents\Visual Studio 2010\Projects\RompiendoMal\RompiendoMal\RompiendoMal\bin\x86\Debug\RompiendoMal.exe
+C:\Users\vichu\Documents\Visual Studio 2010\Projects\RompiendoMal\RompiendoMal\RompiendoMal\bin\x86\Debug\RompiendoMal.pdb
+C:\Users\vichu\Documents\Visual Studio 2010\Projects\RompiendoMal\RompiendoMal\RompiendoMal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vichu\Documents\Visual Studio 2010\Projects\RompiendoMal\RompiendoMal\RompiendoMal\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\vichu\Documents\Visual Studio 2010\Projects\RompiendoMal\RompiendoMal\RompiendoMal\obj\x86\Debug\RompiendoMal.exe
+C:\Users\vichu\Documents\Visual Studio 2010\Projects\RompiendoMal\RompiendoMal\RompiendoMal\obj\x86\Debug\RompiendoMal.pdb
